@@ -29,4 +29,7 @@
 
 - 참고로 CSR 방식 : Client Side Rendering (React)
   : JS 가 작동안되면 화면 출력안됨
+
 # next-basic
+
+- 테스트입니다
